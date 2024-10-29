@@ -1,0 +1,25 @@
+account.py
+# Diretório virtual de Python
+venv/
+env/
+.venv/
+Projeto_facul
+#Pyrebase 
+pyrebase
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+# Logs
+*.log
+
+# Saídas de build e compilação
+dist/
+build/
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+
