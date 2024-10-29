@@ -27,5 +27,3 @@ def send_mail(email,assunto, texto): # Define como vai ser o texto enviado, nece
     connection.send_message(mensagem)
     connection.quit()
     
-def gerar_codigo():
-    return random.randint(100000, 999999)
